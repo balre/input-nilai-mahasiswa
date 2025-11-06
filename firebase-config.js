@@ -17,3 +17,4 @@ const app = initializeApp(firebaseConfig);
 
 // Ekspor koneksi Firestore agar logic.js bisa pakai
 export const db = getFirestore(app);
+
