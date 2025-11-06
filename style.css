@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(to right, #f0f9ff, #e0f7fa);
+}
+.card {
+  border-radius: 12px;
+}
+table {
+  background-color: white;
+}
