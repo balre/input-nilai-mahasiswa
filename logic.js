@@ -97,3 +97,4 @@ document.getElementById("btnTampil").addEventListener("click", loadData);
 
 // ====== Load Data Otomatis Saat Halaman Dibuka ======
 window.addEventListener("DOMContentLoaded", loadData);
+
